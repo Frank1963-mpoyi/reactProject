@@ -11,7 +11,7 @@ const Navbar = () => {
         <div class="container">
             
         
-        <a className="navbar-brand" href="#"><img src={mylogo} alt="" className="logo" /></a>
+        <a className="navbar-brand text-white" href="#"><img src={mylogo} alt="" className="logo mr-2 " />RUTH CATERING</a>
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <FontAwesomeIcon icon={faBars} style={{ color: "#fff" }} />
     </button> 
